@@ -1,0 +1,80 @@
+.completed {
+    width: 30%;
+    margin: auto;
+}
+.completed h2 {
+    color: grey;
+}
+.completed li {
+    background-color: rgb(121, 209, 121);
+    color: rgb(0, 0, 0);
+    height: 30px;
+    border-radius: 10px;
+    justify-content: center;
+    padding-top: 4px;
+    list-style-type: none;
+    margin-right: 40px;
+    margin-bottom: 10px;
+}
+
+.compButton {
+    border: 0px;
+    border-bottom: 1px solid black;
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+.compButton:hover {
+    cursor: pointer;
+}
+
+.todoList {
+    width: 30%;
+    margin: auto;
+    margin-left: 34%;
+}
+
+.todoList li {
+    list-style-type: none;
+    width: 20%;
+    margin: auto;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+
+.comp {
+    background-color: rgb(121, 209, 121);
+    border: 0;
+    height: 25px;
+    border-radius: 5px;
+    color: white;
+    margin-right: 10px;
+}
+.del {
+    background-color: rgb(228, 127, 127);
+    border: 0;
+    height: 25px;
+    border-radius: 5px;
+    color: white;
+}
+
+.input {
+    height: 30px;
+    border: 0px;
+    border-bottom: 1px solid black;
+    margin-right: 20px;
+}
+
+.add {
+    width: 100px;
+    border: 0;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+}
+
+.main {
+    margin-top: 50px;
+}
