@@ -1,0 +1,32 @@
+.input {
+    margin-top: 50px;
+}
+.input input {
+    width: 20%;
+    border: none;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+}
+.input button {
+    width: 10%;
+    border: none;
+    height: 25px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.todoDiv {
+    width: 30%;
+    margin: auto;
+}
+.todoDiv > ul {
+    list-style-type: none;
+    margin-top: 50px;
+}
+.todoDiv > ul > li {
+    margin-bottom: 5px;
+    background-color: rgb(236, 235, 235);
+    justify-content: center;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border-bottom: 1px solid black;
+}

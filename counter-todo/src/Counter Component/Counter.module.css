@@ -1,0 +1,16 @@
+.counter {
+    margin-top: 50px;
+}
+.counter > button {
+    width: 150px;
+    height: 30px;
+    margin: 20px;
+    border: 0;
+    font-size: 13px;
+}
+.inc {
+    background-color: rgb(139, 226, 139);
+}
+.dec {
+    background-color: rgb(252, 159, 159);
+}
