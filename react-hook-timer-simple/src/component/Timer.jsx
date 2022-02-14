@@ -5,7 +5,7 @@ export default function Timer({ initialTime, endTime }) {
   const [count, setCount] = useState(initialTime);
 
   useEffect(() => {
-      
+
     const id = setInterval(() => {
 
         setCount((prev) => {
