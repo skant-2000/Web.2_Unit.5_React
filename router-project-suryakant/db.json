@@ -1,0 +1,62 @@
+{
+    "cloth":[
+        {
+            "id": 1,
+            "title": "Jeans",
+            "url": "https://m.media-amazon.com/images/I/81FtO+QPRCL._AC_UL480_FMwebp_QL65_.jpg",
+            "rating": "4.3/5",
+            "price": 649
+        },
+        {
+            "id": 2,
+            "title": "Shirt",
+            "url": "https://m.media-amazon.com/images/I/61YQd1wdQBL._AC_UL480_FMwebp_QL65_.jpg",
+            "rating": "4.5/5",
+            "price": 599
+        },
+        {
+            "id": 3,
+            "title": "Mask",
+            "url": "https://m.media-amazon.com/images/I/616K2wXUBZL._AC_UL480_FMwebp_QL65_.jpg",
+            "rating": "4.9/5",
+            "price": 149
+        },
+        {
+            "id": 4,
+            "title": "T-Shirt",
+            "url": "https://m.media-amazon.com/images/I/51BKqwKidvL._AC_UL480_FMwebp_QL65_.jpg",
+            "rating": "4.2/5",
+            "price": 429
+        }
+    ],
+    "watch":[
+        {
+            "id": 1,
+            "title": "Apple Watch series 7",
+            "url": "https://m.media-amazon.com/images/I/71GIYSZpW+L._AC_UY327_FMwebp_QL65_.jpg",
+            "rating": "4.9/5",
+            "price": "41,449"
+        },
+        {
+            "id": 2,
+            "title": "Samsung Galaxy Watch 7",
+            "url": "https://m.media-amazon.com/images/I/613yXPYAV8L._AC_UY327_FMwebp_QL65_.jpg",
+            "rating": "4.9/5",
+            "price": "26,999"
+        },
+        {
+            "id": 3,
+            "title": "Fossil watch 5E",
+            "url": "https://m.media-amazon.com/images/I/717WcGSjPQS._AC_UL480_FMwebp_QL65_.jpg",
+            "rating": "4.6/5",
+            "price": "18,459"
+        },
+        {
+            "id": 4,
+            "title": "Casio G-Shock Analog",
+            "url": "https://m.media-amazon.com/images/I/61JbXAH0LYL._AC_UL480_FMwebp_QL65_.jpg",
+            "rating": "4.7/5",
+            "price": "10,999"
+        }
+    ]
+}
