@@ -1,0 +1,32 @@
+{
+    "products":[
+        {
+            "id": 0,
+            "name": "Apple Watch series 7",
+            "url": "https://m.media-amazon.com/images/I/71Tlukf9FTL._AC_UY327_FMwebp_QL65_.jpg",
+            "price": "44,500",
+            "brand": "Apple"
+        },
+        {
+            "id": 1,
+            "name": "cap",
+            "url": "https://m.media-amazon.com/images/I/51mERBKsHnL._AC_UL480_FMwebp_QL65_.jpg",
+            "price": "500",
+            "brand": "Nike"
+        },
+        {
+            "id": 2,
+            "name": "Apple iphone",
+            "url": "https://m.media-amazon.com/images/I/71GLMJ7TQiL._AC_UY327_FMwebp_QL65_.jpg",
+            "price": "75,900",
+            "brand": "Apple"
+        },
+        {
+            "id": 3,
+            "name": "Surfacr Studio",
+            "url": "https://m.media-amazon.com/images/I/61UGE9cZVlL._AC_UY327_QL65_.jpg",
+            "price": "3,73,900",
+            "brand": "Microsoft"
+        }
+    ]
+}
