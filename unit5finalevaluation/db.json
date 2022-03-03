@@ -1,0 +1,26 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "userName": "surya",
+            "password": "123"
+        }
+    ],
+    "posts": [ 
+        {
+            "id": 1,
+            "post_title": "hello",
+            "post_body": "world",
+            "authod_id": 0,
+            "authod_username": "sk_1998" 
+        }
+    ],
+    "comments": [
+        { "id": 0,
+            "author_id": 0,
+            "author_name": "good",
+            "post_id": 0,
+            "comment_details": "nice"
+        }
+    ]
+}
